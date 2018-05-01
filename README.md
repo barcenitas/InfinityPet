@@ -15,7 +15,7 @@
 
 						     	   *Tienda Online*
 
-						    		Itegrantes:
+						    	Itegrantes:
 
 						3 - Bárcenas Martínez Erick Iván
 
