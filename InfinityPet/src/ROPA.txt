@@ -1,0 +1,196 @@
+
+
+ROPA
+
+1
+Playera de México Para Perro  
+2
+Playera de Alemania Para Perro
+3
+Playera de Brasil Para Perro
+4
+Playera de Argentina Para Perro
+
+
+$343.00
+
+
+JUGUETES
+
+B1
+Tira pelotas "Chuck it" Sport
+$250.00
+B2
+Hueso "Kong" Duets Bone
+$216.00
+B3
+Juguete "Kong" Ball
+$209.00
+
+B4
+Juguete "Kong" Ball con cuerda
+$269.00
+
+COJINES
+
+C1
+Cojín ''Jax & Bones'' Twig
+$1,700.00
+
+C2
+Cojín "Jax & Bones" Cozy Mat
+$420.00
+C3
+Cama "Jax & Bones" Slumber Burlap Chocolate Redonda
+$1,050.00
+
+C4
+Casa "Petego" Soft Deck
+$1,628.00
+
+
+
+------------
+a.C1=[{C1:"Cojín 'Jax & Bones' Twig"}],a.C2=[{C2:"Cojín 'Jax & Bones' Cozy Mat"}],a.C3=[{C3:"Cama "Jax & Bones" Slumber Burlap Chocolate Redonda"}]
+----------------
+
+D1
+Transportadora "Petmate" Vari Kennel
+$1,343.00
+
+D2
+Transportadora 'Petego' en forma de tubo
+$1,964.00
+
+D3
+Transportadora 'Ferplast' Atlas Deluxe
+$670.00
+
+D4
+Transportadora "Skudo" Pratiko
+$410.00
+
+
+COLLAR
+
+E1
+Collar 'Dogness' Classic Rosa
+$230.00
+E2
+Collar 'Dogness' Classic Rojo
+$230.00
+
+E3
+Collar 'Dogness' Classic Negro
+$230.00
+
+E4
+Collar "Dogness" Classic Morado
+$230.00
+
+
+F1
+Guante de Goma Para Almohazar 'Fancy Pets'
+$110.00
+
+F2
+Cepillo de Goma 'Fancy Pets' Para Almohazar
+$220.00
+
+F3
+Tijera Entresaque 'Oster' Convex 2 45 Dientes
+$3,000.00
+
+F4
+Cepillo "Oster" de Cónicas Metálicas Premium
+$300.00
+
+
+Cuidado dental
+
+G1
+Spray Dental 'Fancy Pets' Ultra 125 ml
+$49.00
+
+G2
+Spray Dental 'Fancy Pets' 125 ml
+$42.00
+
+G3
+Refrescante bucal Aquadent® 'Virbac'
+$315.00
+
+G4
+Hueso "Nylabone" Puppy Chew Double Action
+$309.00
+
+
+OFERTAS
+
+H1
+Impermeable 'Petrageous' Playtime Slicker Verde
+$100.00
+
+H2
+Playera 'Petrageous' Peace & Love T-Shirt
+$100.00
+
+H3
+Playera 'Petrageous' Punk Dog T-Shirt
+$100.00
+
+H4
+Sueter 'Petrageous' Harley’s Hooded Sweater
+$150.00
+
+I1
+Correa 'Up Country' Candy Cane
+$125.00
+
+I2
+Correa 'Up Country' Christmas Bones
+$125.00
+
+
+I3
+Correa 'Up Country' Let it Snow
+$125.00
+
+
+I4
+Correa "Up Country" Mittens
+$125.00
+
+
+
+TAZONES
+
+J4
+Tazón De Acero Inoxidable "Pelu2" Rojo
+$47.60
+
+
+J1
+Tazón De Acero Inoxidable "Pelu2" Azul
+$47.60
+
+
+J2
+Tazón De Acero Inoxidable "Pelu2" Morado
+$47.60
+
+J3
+Tazón De Acero Inoxidable "Pelu2" Rojo
+
+$47.60
+
+
+
+
+
+
+
+
+
+
+
