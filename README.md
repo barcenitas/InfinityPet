@@ -4,7 +4,7 @@
 
 
 						     ,                    ," e`--o
-						    ((     InfinityPet  (  | __,'
+						    ((    MillennialPet  (  | __,'
 						     \\~----------------' \_;/
 						     (   GEN.36  PROTECO    /
 						     /) ._______________.  )
@@ -19,7 +19,7 @@
 
 						3 - Bárcenas Martínez Erick Iván
 
-						18 - Carballido Garcìa Alicia
+						8 - García Ruiz Andrea
 
 						22 - Martínez Pineda Daniel
 
