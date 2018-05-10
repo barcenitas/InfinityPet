@@ -1,9 +1,9 @@
 
 $(document).ready(function(){
-  $('.modal').modal();
+  	$('.modal').modal();
     $('.sidenav').sidenav();
- $('.tap-target').tapTarget();
-  instance.next();
+ 	$('.tap-target').tapTarget();
+  	instance.next();
 
   });
 

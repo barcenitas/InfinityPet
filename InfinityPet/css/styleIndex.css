@@ -15,7 +15,7 @@ font-family: 'Jockey One', sans-serif;
 }
 
 #body1{
-background-color: #000;
+background-color: #00BFFF;
 
 
 }
@@ -44,4 +44,15 @@ p {
   h1 {
     font-size: 30px;
   }
+}
+
+.navbar-fixed{
+  font-family: 'Montserrat', sans-serif;  
+  background-color: rgba(0,0,0,0);
+
+}
+
+.vision{
+
+  font-family: 'Quicksand', sans-serif;
 }
